@@ -1,0 +1,10 @@
+{
+"id": "org.mymovi.netmirror",
+"version": "1.0.0",
+"name": "My Movi - NetMirror",
+"description": "Stream directly from NetMirror",
+"resources": ["stream"],
+"types": ["movie", "tv"],
+"idPrefixes": ["tt"],
+"catalogs": []
+}
